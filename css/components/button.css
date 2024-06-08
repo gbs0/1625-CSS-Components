@@ -1,0 +1,29 @@
+.btn-green {
+  text-decoration: none;
+  color: white;
+  background-color: #0A6847;
+  padding: 20px 45px;
+  border-radius: 5px;
+  transition: .3s;
+}
+
+.btn-green:hover {
+  background-color: #074c34;
+  transition: .3s;
+  padding: 20px 60px;
+}
+
+.btn-outline {
+  text-decoration: none;
+  color: rgb(45, 45, 45);
+  border: 1px solid rgb(45, 45, 45);
+  background-color: transparent;
+  padding: 20px 45px;
+  border-radius: 5px;
+  transition: .3s;
+}
+
+.btn-outline:hover {
+  transition: .3s;
+  padding: 20px 60px;
+}
